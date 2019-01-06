@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "c_program"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"thread": "cpp"
+		}
+	}
+}
